@@ -1,0 +1,1 @@
+PyAutoGUI>=0.9.54pyperclip>=1.8.2pynput>=1.7.6
