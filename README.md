@@ -1,6 +1,6 @@
-This is my first publicly shared script. I hope it can be of help to those in need. If you think it's useful, please click the "star" icon.
-这是我的第一个公开分享的小脚本,希望能帮助到有需要的人,认为有用的可以点一下star
+This is my first publicly shared script. I hope it can be of help to those in need. If you think it's useful, please click the "star" icon.<br>
+这是我的第一个公开分享的小脚本,希望能帮助到有需要的人,认为有用的可以点一下star<br>
 
-Software example diagram
-软件示例图
+Software example diagram<br>
+软件示例图<br>
 <img width="402" height="619" alt="image" src="https://github.com/user-attachments/assets/b6565be5-f347-49d4-a9fd-fc17bdb0f2f3" />
